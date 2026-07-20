@@ -1,9 +1,0 @@
-.mypy_cache/
-.coverage
-*.py[cod]
-build/
-__pycache__/
-htmlcov/
-venv/
-env/
-.tox/
