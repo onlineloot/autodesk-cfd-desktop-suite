@@ -1,0 +1,12 @@
+# Configuration for git attributes
+# Do not edit manually
+# Default behavior
+public/**/*.html linguist-vendored
+
+**/*.py linguist-detectable
+*.woff2 binary  
+
+*.py linguist-detectable
+node_modules/* linguist-vendored
+public/index.html linguist-vendored
+*.gif binary
